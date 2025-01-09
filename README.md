@@ -44,3 +44,8 @@
 <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximprosin&layout=compact&theme=dark"/></a>
 </div>
+
+<br/>  
+<p align="center" dir="auto">
+<img width="600" src="https://github.com/maximprosin/maximprosin/blob/main/assets/animateSnake.svg" alt="snake" style="max-width: 100%;">
+</p>
