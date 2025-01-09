@@ -38,13 +38,9 @@
   <h2 align="center">My stats</h2>
 
 <div align="center">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=maximprosin&theme=dark&hide_border=true&border_radius=10&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&card_width=450&card_height=200"/>
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=maximprosin&theme=dark&hide_border=true&border_radius=10&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&card_width=450&card_height=295"/>
 </div>
 
 <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximprosin&layout=compact&theme=dark"/></a>
-</div>
-
-<div align="center">
-    <img src="https://github.com/maximprosin/bash-stat/blob/master/github_stats.svg"/>
 </div>
