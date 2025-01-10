@@ -39,8 +39,8 @@
 
 <div id="stat" align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maximprosin&theme=github_dark" alt=""/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maximprosin&theme=github_dark" alt=""/>
-     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maximprosin&theme=github_dark" alt=""/>
+    <img style="margin-right: 15px;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maximprosin&theme=github_dark" alt=""/>
+     <img style="margin-top: 15px" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maximprosin&theme=github_dark" alt=""/>
 </div>
 
 <br/>  
