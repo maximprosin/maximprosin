@@ -50,10 +50,10 @@
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maximprosin&theme=github_dark" alt="Profile Details" width="800"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maximprosin&theme=github_dark" alt="Profile Details" width="398"/>
   <br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maximprosin&theme=github_dark" alt="Most Commit Language" width="400"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maximprosin&theme=github_dark" alt="Stats" width="400"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maximprosin&theme=github_dark" alt="Stats" width="398"/>
 </div>
 
 ---
